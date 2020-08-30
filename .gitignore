@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+/audio
+/static
+db.sqlite3
+*.wav
+migrations/
+__pycache__/
+nohup.out
+dump.rdb
