@@ -1,6 +1,5 @@
 # MoM.ai
 AI enabled webapp for Speaker Diarization, Audio trascrption with time stamps and palceholder for every speakers' name and MoM summary.
-MOM.ai is an AI-enabled tool to tag multiple speakers from a pre-recorded meeting audio and generate the transcript along with the MoM summary
 
 ## System Requirements
 
@@ -47,8 +46,11 @@ python manage.py runserver
 
 ## Usage
 By default the development server runs on 127.0.0.1:8000
+
 In a browser navigate to http://127.0.0.1:8000/home to begin using the app
+
 You may only upload .wav file for processing
+
 The web app will take some time to load when running for the first time as it has to download an AI model of 1.2GB size.
 
 
